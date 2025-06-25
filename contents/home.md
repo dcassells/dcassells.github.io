@@ -1,5 +1,5 @@
 
-Hello. I am currently pursuing a PhD in Complexity and Computational Social Science at Sorbonne Université. I am also associated with teams at Sciences Po’s médialab and LPI Cité Université in Paris.
+I am currently pursuing a PhD in Complexity and Computational Social Science at Sorbonne Université. I am also associated with teams at Sciences Po’s médialab and LPI Cité Université in Paris.
 
 Engineering Mathematics at the University of Bristol is where my academic journey began - completing both my master’s and undergraduate degrees there. During these studies, I spent a year in the Mathematics and Computer Science departments at Ecole Polytechnique Fédérale de Lausanne (EPFL), focusing on stochastic processes, complex networks, and artificial intelligence.
 
