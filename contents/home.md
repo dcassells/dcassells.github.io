@@ -1,7 +1,7 @@
 
-I am currently pursuing a PhD in Complexity and Computational Social Science at Sorbonne Université. I am also associated with teams at Sciences Po’s médialab and LPI Cité Université in Paris.
+Currently, in the final year of research for a PhD in Complexity and Computational Social Science at Sorbonne Université. I am also associated with teams at Sciences Po’s médialab and LPI Cité Université in Paris. My thesis focuses on extending opinion dynamics models to: (1) consider group identification (key to affective polarization), and (2) to be able to handle large online datasets (via mean-field approximation).
 
-Prior to my current research, I spent several years as an Editorial Analyst at The Guardian, and as a Financial Consultant in both London and Madrid. My academic background before that was Mathematics and Engineering.
+Before my current research, I spent several years as an Editorial Analyst at The Guardian, and as a Financial Consultant in both London and Madrid. My academic background before that was Mathematics and Engineering.
 
 Please feel free to reach out if you have any questions or would like to collaborate.
 
